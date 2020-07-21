@@ -1,2 +1,3 @@
 # hello-world
-trying
+yoyoyyoy: 
+  the first time to learn github seriously
